@@ -1,0 +1,302 @@
+{
+ "ch1_msg1": {
+  "speaker": "[UNKNOWN SIGNAL]",
+  "style": "signal",
+  "pages": [
+   [
+    "Hello?",
+    "",
+    "Can you hear me?",
+    "..."
+   ],
+   [
+    "If you can hear this, then it worked.",
+    "",
+    "I don't have much time."
+   ],
+   [
+    "Please, keep going.",
+    "",
+    "You'll understand eventually."
+   ]
+  ]
+ },
+ "ch2_msg": {
+  "speaker": "[UNKNOWN SIGNAL]",
+  "style": "signal",
+  "pages": [
+   [
+    "You made it.",
+    "",
+    "I remember this place.",
+    "I remember being afraid of it."
+   ],
+   [
+    "Funny, isn't it?",
+    "",
+    "Something that once seemed impossible...",
+    "Eventually becomes something we can walk through."
+   ]
+  ]
+ },
+ "ch3_npc1": {
+  "speaker": "",
+  "style": "npc",
+  "pages": [
+   [
+    "It's getting late.",
+    "",
+    "You should probably find somewhere to rest."
+   ]
+  ]
+ },
+ "ch3_npc1_day": {
+  "speaker": "",
+  "style": "npc",
+  "pages": [
+   [
+    "It's quiet today.",
+    "",
+    "You could probably stop somewhere to rest."
+   ]
+  ]
+ },
+ "ch3_npc2": {
+  "speaker": "",
+  "style": "npc",
+  "pages": [
+   [
+    "You know..."
+   ],
+   [
+    "You don't always have to keep moving.",
+    "",
+    "Sometimes it's okay to sit down for a while."
+   ]
+  ]
+ },
+ "ch3_msg": {
+  "speaker": "[UNKNOWN SIGNAL]",
+  "style": "signal",
+  "pages": [
+   [
+    "I used to think that stopping meant losing.",
+    "",
+    "I thought I had to keep moving all the time."
+   ],
+   [
+    "But I was wrong.",
+    "",
+    "Resting isn't the same as giving up."
+   ]
+  ]
+ },
+ "ch4_msg": {
+  "speaker": "[UNKNOWN SIGNAL]",
+  "style": "signal",
+  "pages": [
+   [
+    "I know you probably have a lot of questions.",
+    "",
+    "Who am I?",
+    "Why am I sending these messages?",
+    "..."
+   ],
+   [
+    "I'm you.",
+    "",
+    "Just a little further ahead.",
+    "",
+    "I know what you're going through.",
+    "Because I've been there."
+   ],
+   [
+    "Please.",
+    "",
+    "Don't stop here."
+   ]
+  ]
+ },
+ "ch4_playing": {
+  "speaker": "",
+  "style": "plain",
+  "pages": [
+   [
+    "The device hums.",
+    "",
+    "The old messages are playing in another window.",
+    "Come back here when you're ready."
+   ]
+  ]
+ },
+ "ch5_warn": {
+  "speaker": "",
+  "style": "warn",
+  "pages": [
+   [
+    "WARNING: UNEXPECTED INPUT"
+   ],
+   [
+    "WARNING: UNKNOWN PROCESS"
+   ],
+   [
+    "WARNING: DATA MODIFIED"
+   ]
+  ]
+ },
+ "ch5_null": {
+  "speaker": "",
+  "style": "null",
+  "pages": [
+   [
+    "NULL: Hey.",
+    "NULL: Can you read this?",
+    "NULL: I think someone messed with this game.",
+    "NULL: Check the game directory."
+   ]
+  ]
+ },
+ "ch5_null_inside": {
+  "speaker": "",
+  "style": "null",
+  "pages": [
+   [
+    "NULL: Or, if you'd rather stay in here:",
+    "NULL: press ` and type help."
+   ]
+  ]
+ },
+ "ch5_msg": {
+  "speaker": "[UNKNOWN SIGNAL]",
+  "style": "signal",
+  "pages": [
+   [
+    "You found a way.",
+    "",
+    "I knew you would."
+   ],
+   [
+    "There's only one place left.",
+    "",
+    "I'm waiting."
+   ]
+  ]
+ },
+ "ch6_start": {
+  "speaker": "DEVELOPER:",
+  "style": "dev",
+  "pages": [
+   [
+    "Welcome.",
+    "",
+    "I made everything here.",
+    "Every wall.",
+    "Every enemy.",
+    "Every rule.",
+    "",
+    "I know how this game works.",
+    "",
+    "Let's begin."
+   ]
+  ]
+ },
+ "ch6_slow": {
+  "speaker": "DEVELOPER:",
+  "style": "dev",
+  "pages": [
+   [
+    "Too slow.",
+    "",
+    "I can hear every key you press.",
+    "",
+    "Go ahead.",
+    "Try again."
+   ]
+  ]
+ },
+ "ch6_system": {
+  "speaker": "DEVELOPER:",
+  "style": "dev",
+  "pages": [
+   [
+    "I wrote this system myself.",
+    "",
+    "As long as you use the controls",
+    "I gave you...",
+    "",
+    "You won't touch me."
+   ]
+  ]
+ },
+ "ch6_firstmacro": {
+  "speaker": "DEVELOPER:",
+  "style": "dev",
+  "pages": [
+   [
+    "...",
+    "",
+    "Why didn't I dodge?"
+   ]
+  ]
+ },
+ "ch6_realize": {
+  "speaker": "DEVELOPER:",
+  "style": "dev",
+  "pages": [
+   [
+    "Wait.",
+    "",
+    "That's not keyboard input.",
+    "",
+    "You're sending commands directly?",
+    "",
+    "I never considered that."
+   ]
+  ]
+ },
+ "ch6_hint": {
+  "speaker": "",
+  "style": "null",
+  "pages": [
+   [
+    "NULL: He only listens to this window."
+   ]
+  ]
+ },
+ "ch6_hint_inside": {
+  "speaker": "",
+  "style": "null",
+  "pages": [
+   [
+    "NULL: Try typing instead of pressing."
+   ]
+  ]
+ },
+ "ch6_end": {
+  "speaker": "DEVELOPER:",
+  "style": "dev",
+  "pages": [
+   [
+    "...",
+    "",
+    "I created this world.",
+    "",
+    "I wrote its rules.",
+    "",
+    "I thought I knew",
+    "how everything would work."
+   ],
+   [
+    "But I never thought",
+    "someone would find another way."
+   ],
+   [
+    "...",
+    "",
+    "I suppose...",
+    "",
+    "That's how games work."
+   ]
+  ]
+ }
+}

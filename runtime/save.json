@@ -1,0 +1,15 @@
+{
+  "Chapter": 4,
+  "X": 41,
+  "Flags": {
+    "ch1_signal": true,
+    "ch2_boss": true,
+    "ch3_rested": true
+  },
+  "Hp": 5,
+  "Y": 12,
+  "CkY": 12,
+  "Name": "",
+  "CkX": 41,
+  "Freq": "104.9"
+}

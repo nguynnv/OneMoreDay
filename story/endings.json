@@ -1,0 +1,187 @@
+{
+ "archive_prompt": [
+  "ARCHIVE FOUND",
+  "",
+  "100 LOG ENTRIES AVAILABLE.",
+  "",
+  "OPEN ARCHIVE?"
+ ],
+ "archive_note": [
+  "Most of the entries are only static.",
+  "These were saved."
+ ],
+ "logs": [
+  {
+   "id": "001",
+   "lines": [
+    "I found a way to send messages to the past.",
+    "",
+    "I don't know if this will work.",
+    "But I have to try."
+   ]
+  },
+  {
+   "id": "014",
+   "lines": [
+    "I remember this place.",
+    "",
+    "I remember how difficult everything seemed.",
+    "",
+    "I wish I could go back and tell myself",
+    "that I made it."
+   ]
+  },
+  {
+   "id": "039",
+   "lines": [
+    "If you're still listening...",
+    "",
+    "Thank you.",
+    "",
+    "I know I can't do much from here.",
+    "But I'm trying."
+   ]
+  },
+  {
+   "id": "052",
+   "lines": [
+    "I went back to the forest today.",
+    "Not the real one. Just in my head.",
+    "",
+    "It was smaller than I remembered.",
+    "I think that's how it works."
+   ]
+  },
+  {
+   "id": "071",
+   "lines": [
+    "I stopped sending instructions a while ago.",
+    "You didn't need them.",
+    "",
+    "I think I just wanted to keep talking",
+    "to someone who would understand."
+   ]
+  },
+  {
+   "id": "088",
+   "lines": [
+    "I'm not sure who I'm writing to anymore.",
+    "",
+    "Maybe it's still me.",
+    "Maybe it's someone sitting where I used to sit,",
+    "reading this a long way from here."
+   ]
+  },
+  {
+   "id": "096",
+   "lines": [
+    "If it's you, the one who's reading this:",
+    "",
+    "You don't owe me anything.",
+    "You don't owe this game anything.",
+    "Close it whenever you need to."
+   ]
+  }
+ ],
+ "letter_title": "LOG #100 \u2014 To Whoever Is Reading This",
+ "letter": [
+  [
+   "Hello.",
+   "",
+   "I don't know who you are.",
+   "",
+   "I don't know where you are.",
+   "I don't know what you've been through.",
+   "",
+   "And I won't pretend that I do."
+  ],
+  [
+   "But if you've made it this far,",
+   "then you've spent quite some time",
+   "with me.",
+   "",
+   "Maybe you played because you were bored.",
+   "Maybe you wanted to see how the story ends.",
+   "Maybe you just wanted to beat the game.",
+   "",
+   "That's okay."
+  ],
+  [
+   "I have something to tell you.",
+   "",
+   "You don't have to be strong every day.",
+   "",
+   "You don't have to know where you're going.",
+   "",
+   "You don't have to fix everything",
+   "that's broken in your life."
+  ],
+  [
+   "And you certainly don't have to",
+   "prove anything to anyone.",
+   "",
+   "Sometimes, getting through a day",
+   "is already enough.",
+   "",
+   "I wish I could tell you",
+   "that tomorrow will be better.",
+   "",
+   "But I can't promise that."
+  ],
+  [
+   "What I can say is that tomorrow",
+   "is a day you haven't experienced yet.",
+   "",
+   "There are places you haven't seen.",
+   "People you haven't met.",
+   "Songs you haven't heard.",
+   "Stories you haven't read."
+  ],
+  [
+   "There are versions of yourself",
+   "that you haven't had the chance",
+   "to become.",
+   "",
+   "So please...",
+   "",
+   "Give yourself a little more time."
+  ],
+  [
+   "Not for me.",
+   "Not for this game.",
+   "Not because someone told you to.",
+   "",
+   "Just for yourself.",
+   "",
+   "...",
+   "",
+   "Thank you for staying.",
+   "",
+   "\u2014 Catherine"
+  ]
+ ],
+ "still_there": [
+  "...",
+  "Are you still there?"
+ ],
+ "stay_prompt": [
+  "Before you leave...",
+  "",
+  "Would you like to stay a little longer?"
+ ],
+ "stay": [
+  "That's okay.",
+  "",
+  "We don't have to go anywhere.",
+  "",
+  "Take your time."
+ ],
+ "leave": [
+  "Thank you for spending",
+  "some of your time here.",
+  "",
+  "Take care of yourself.",
+  "",
+  "See you around."
+ ]
+}
